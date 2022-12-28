@@ -1,0 +1,6 @@
+{
+  //ESLint Autofix on save
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
